@@ -2,5 +2,6 @@ E:\git\api-generator\src\main\java\dev\mateas\rag\entity\AnnotationInfo.java
 E:\git\api-generator\src\main\java\dev\mateas\rag\processor\impl\SpringBootAnnotationProcessor.java
 E:\git\api-generator\src\main\java\dev\mateas\rag\processor\AnnotationProcessor.java
 E:\git\api-generator\src\main\java\dev\mateas\rag\constants\AnnotationProcessorConstants.java
+E:\git\api-generator\src\main\java\dev\mateas\rag\generator\JavaClassCodeBuilder.java
 E:\git\api-generator\src\main\java\dev\mateas\rag\GenerateMojo.java
 E:\git\api-generator\src\main\java\dev\mateas\rag\annotations\GenerateApi.java

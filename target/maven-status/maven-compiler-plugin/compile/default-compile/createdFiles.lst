@@ -1,6 +1,7 @@
 dev\mateas\rag\entity\AnnotationInfo.class
 dev\mateas\rag\GenerateMojo.class
 dev\mateas\rag\annotations\GenerateApi.class
+dev\mateas\rag\generator\JavaClassCodeBuilder.class
 dev\mateas\rag\processor\AnnotationProcessor.class
 dev\mateas\rag\processor\impl\SpringBootAnnotationProcessor.class
 dev\mateas\rag\constants\AnnotationProcessorConstants.class
